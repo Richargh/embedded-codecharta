@@ -1,0 +1,4 @@
+Path;Metric1;Metric2;Metric3
+some/location/index.js;100;20;80
+some/location/app.js;200;50;20
+another/location/users.sql;1000;20;10
